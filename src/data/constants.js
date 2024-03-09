@@ -355,29 +355,20 @@ export const projects = [
 
   {
     id: 0,
-    title: "Podstream",
-    date: "Apr 2023 - May 2023",
-    description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+    title: "Obstacle Detection ML Model - TensorFlow",
+    date: "Apr 2020 - Sep 2020",
+    description:"o	Built obstacle detection and avoidance model using TensorFlow Object Detection API and ultrasonic sensor on Raspberry Pi 4, installed - implemented on toy car. o	Trained TensorFlow ML Model with hundreds of images and made model 90% accurate and Tuned the motors and break timings according to the obstacle distance and surface fiction.",
     image:
       "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+    tags: ["TensorFlow", "Python"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+    github: "https://github.com/Rohan9982/Obs-Detaction",
     member: [
       {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
+        name: "Vishal Patel",
+        linkedin: "https://www.linkedin.com/in/vishal-patel-92a405135/",
+        github: "https://github.com/vishpatel24/",
+      }
     ],
   }
 ];
