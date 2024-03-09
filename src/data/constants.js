@@ -359,7 +359,7 @@ export const projects = [
     date: "Apr 2020 - Sep 2020",
     description:"o	Built obstacle detection and avoidance model using TensorFlow Object Detection API and ultrasonic sensor on Raspberry Pi 4, installed - implemented on toy car. o	Trained TensorFlow ML Model with hundreds of images and made model 90% accurate and Tuned the motors and break timings according to the obstacle distance and surface fiction.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "",
     tags: ["TensorFlow", "Python"],
     category: "web app",
     github: "https://github.com/Rohan9982/Obs-Detaction",
