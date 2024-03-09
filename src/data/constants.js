@@ -2,15 +2,15 @@ export const Bio = {
   name: "Vishal Patel",
   roles: [
     "Full Stack Developer",
-    "Android Developer",
     "UI/UX Designer",
     "Programmer",
+    "Data Analyst"
   ],
   description:
-    "Results-driven Software Engineer with 2+ years' experience crafting full-stack web applications using JavaScript (React, Next, Vue) for dynamic front-end design and Node.js with Express for robust backends and APIs. Adept in managing both relational and non-relational databases, and holds Azure Fundamentals certification with hands-on experience in Azure services and DevOps tools.npm sun start",
+    "Results-driven Software Engineer with 2+ years' experience crafting full-stack web applications using JavaScript (React, Next, Vue) for dynamic front-end design and Node.js with Express for robust backends and APIs. Adept in managing both relational and non-relational databases, and holds Azure Fundamentals certification with hands-on experience in Azure services and DevOps tools.",
   github: "https://github.com/vishpatel24",
   resume:
-    "https://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link",
+    "https://mylambton-my.sharepoint.com/:b:/g/personal/c0854148_mylambton_ca/ERr-h9jDfXlBt0GkEZyJNKYBQ_9GE5E7h21oJ_IqXMKLZg?e=EVJqT3",
   linkedin: "https://www.linkedin.com/in/vishal-patel-92a405135",
 };
 
