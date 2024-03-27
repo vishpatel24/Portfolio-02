@@ -277,7 +277,7 @@ export const experiences = [
     img: "https://i.ibb.co/Xs3VcDN/Asset-1-2x.png",
     role: "Frontend Devloper Intern",
     company: "ActivityPro",
-    date: "June 2023 - Nov 2023",
+    date: "May 2023 - Dec 2023",
     desc: "o	Revamped the UI of the ActivityPro web application, optimizing cross-device accessibility and compatibility across various platforms and browsers. Leveraged Next.js's reusable components and responsive design methodologies to deliver an enhanced user experience to 1000s of recreation professionals.",
     skills: [
       "ReactJS",
@@ -295,7 +295,7 @@ export const experiences = [
     img: "https://i.ibb.co/5TsWrQH/cropped-logo.png",
     role: "Web Developer",
     company: "WeeTech Solution Pvt Ltd",
-    date: "Sep 2020 - Dec 2021",
+    date: "Jan 2020 - Dec 2021",
     desc: "o	Designed, developed, and deployed a responsive and user-friendly website, proficiently styling web pages with HTML5, CSS3, and React.js. Engineered robust APIs in the backend using Node.js and Express.js, seamlessly managing large datasets with MySQL. Conducted functional and performance testing of the web application using Testsigma, identified and documented issues, and worked to resolve them to ensure a high-quality user experience and page load time under 1.5 sec.",
     skills: [
       "JavaScript",
